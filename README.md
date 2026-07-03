@@ -59,18 +59,12 @@ source ~/.zshrc
 - `settarget <IP> <HOST>` - Define IP y hostname del target actual
 - `cleartarget` - Limpia el target activo
 
-## 📄 Licencia
-
-MIT License
-
-
-
-
+## 📸 Preview
 
 <img width="2559" height="1426" alt="image" src="https://github.com/user-attachments/assets/b9e5d315-90f1-43ea-924c-d2f085ed8c3b" />
 
 ------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------
+
 
 <img width="2544" height="1422" alt="image" src="https://github.com/user-attachments/assets/eb550c05-bc71-4b56-a18b-c8dbf085229c" />
 
